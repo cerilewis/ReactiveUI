@@ -504,6 +504,7 @@ namespace ReactiveUI
                 "MSBUILD",
                 "NBEHAVE",
                 "TESTPLATFORM",
+                "NCRUNCH"
             };
 
             string[] designEnvironments = new[] {
